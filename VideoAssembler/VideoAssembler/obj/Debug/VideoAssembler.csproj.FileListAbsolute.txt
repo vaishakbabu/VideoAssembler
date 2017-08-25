@@ -1,0 +1,9 @@
+D:\Develop\C# programs\VideoAssembler\VideoAssembler\bin\Debug\VideoAssembler.exe.config
+D:\Develop\C# programs\VideoAssembler\VideoAssembler\bin\Debug\VideoAssembler.exe
+D:\Develop\C# programs\VideoAssembler\VideoAssembler\bin\Debug\VideoAssembler.pdb
+D:\Develop\C# programs\VideoAssembler\VideoAssembler\obj\Debug\VideoAssembler.csprojResolveAssemblyReference.cache
+D:\Develop\C# programs\VideoAssembler\VideoAssembler\obj\Debug\Interop.QTOControlLib.dll
+D:\Develop\C# programs\VideoAssembler\VideoAssembler\obj\Debug\Interop.QTOLibrary.dll
+D:\Develop\C# programs\VideoAssembler\VideoAssembler\obj\Debug\VideoAssembler.csproj.ResolveComReference.cache
+D:\Develop\C# programs\VideoAssembler\VideoAssembler\obj\Debug\VideoAssembler.exe
+D:\Develop\C# programs\VideoAssembler\VideoAssembler\obj\Debug\VideoAssembler.pdb
